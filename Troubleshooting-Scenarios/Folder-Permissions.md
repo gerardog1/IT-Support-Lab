@@ -15,6 +15,7 @@ Upon review of NTFS permissions, it was discovered that the parent folder `IT-Sh
 ## Resolution
 
 Made sure the `Domain Users` group on the parent folder only has "List Folder Contents" and nothing more.
+Disabled Inheritance and removed `Domain Users` from the department folders.
 
 ## Verification
 
