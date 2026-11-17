@@ -13,3 +13,9 @@ I changed the share permissions for Everyone to Full Control, while using NTFS p
 ## Root Cause
 
 The user was able to access the network share but could not create files because the share permissions were more restrictive than the NTFS permissions.
+
+<img width="492" height="620" alt="Share-permissions" src="https://github.com/user-attachments/assets/35ee362b-133d-49ac-8129-57cb1c01c1ca" />
+
+
+
+
