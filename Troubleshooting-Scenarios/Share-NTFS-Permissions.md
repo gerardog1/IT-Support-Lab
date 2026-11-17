@@ -16,6 +16,4 @@ The user was able to access the network share but could not create files because
 
 <img width="492" height="620" alt="Share-permissions" src="https://github.com/user-attachments/assets/35ee362b-133d-49ac-8129-57cb1c01c1ca" />
 
-
-
-
+<img width="483" height="600" alt="ntfs-permissions" src="https://github.com/user-attachments/assets/e1aaec9b-f41d-4b4e-945b-ce377bc2e58f" />
