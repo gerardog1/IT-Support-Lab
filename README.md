@@ -25,5 +25,5 @@ The issue of standard users being able to access all department folders was addr
 
 Share permissions being more restrictive than NTFS permissions prevented access. [View Troubleshooting Steps](Share-NTFS-Permissions.md)
 
-## Windows Server DC setup
+## Environment setup
 [See Screenshots Here](DC-Setup.md)
