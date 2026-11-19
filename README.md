@@ -11,7 +11,7 @@ In this lab, I set up a DC and Workstation and troubleshoot issues inside the en
 
 ### 1. No Internet Connectivity Without DHCP
 
-Workstation pulled an APIPA address and could not access the internet. [View Troubleshooting Steps](../Troubleshooting-Scenarios/Apipa-Dhcp.md)
+Workstation pulled an APIPA address and could not access the internet. [View Troubleshooting Steps](Apipa-Dhcp.md)
 
 ### 2. User Unable to Write Files to Mapped Drive
 
